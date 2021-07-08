@@ -2,4 +2,4 @@
 HTML, CSS ve Bootstrap ile kendimi geliştirmek için yaptığım site.
 
 ## Live Demo
-[Live Demo] (https://zehraikizler.github.io/instagram-clone/)
+[Live Demo](https://zehraikizler.github.io/instagram-clone/)
