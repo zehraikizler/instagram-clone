@@ -6,6 +6,7 @@ It is an *Instagram Clone* site that I made to improve myself.
 + HTML
 + CSS
 + Bootstrap
++ JavaScript
 
 ## Live Demo
 *[Live Demo](https://zehraikizler.github.io/instagram-clone/)*
