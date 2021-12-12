@@ -1,3 +1,7 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 /* NAVBAR */
 
 .container-nav {
@@ -10,7 +14,6 @@
     height: 54px;
     padding-left: 23px;
 }
-
 
 .search {
  background-color: rgba(var(--b3f,250,250,250),1);
@@ -143,6 +146,15 @@
 
 .post-icons > li {
     display: inline-block;
+}
+
+
+.like-heart{
+    display: none;
+}
+
+.unfollow{
+    display: none;
 }
 
 .card-footer {
